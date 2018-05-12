@@ -1,0 +1,27 @@
+_repo: History-of-the-Comstock-Patent-Medicine-Business-and-Dr.-Morse-s-Indian-Root-Pills_13397
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shaw, Robert B.
+    gutenberg_agent_id: '5036'
+    url: http://www.gutenberg.org/2009/agents/5036
+description: ''
+gutenberg_bookshelf: Medicine
+gutenberg_issued: '2004-09-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13397'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'W.H. Comstock Co.'
+- !lcc 'HD'
+- !lcsh 'Patent medicines -- United States'
+title: History of the Comstock Patent Medicine Business and Dr. Morse's Indian Root
+  Pills
+url: http://www.gutenberg.org/ebooks/13397
