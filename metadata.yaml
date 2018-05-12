@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '5036'
     url: http://www.gutenberg.org/2009/agents/5036
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13397#History-of-the-Comstock-Patent-Medicine-Business-and-Dr.-Morse-s-Indian-Root-Pills
 gutenberg_bookshelf: Medicine
 gutenberg_issued: '2004-09-08'
 gutenberg_type: Text
